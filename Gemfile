@@ -1,3 +1,3 @@
 source "http://rubygems.org"
-gem "sinatra"
-gem "tropo-webapi-ruby"
+gem 'sinatra'
+gem 'tropo-webapi-ruby'
